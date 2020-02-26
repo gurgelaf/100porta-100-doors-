@@ -1,3 +1,10 @@
+/*
+  Translate:
+  porta = door;
+  mecherporta = toggledoor;
+  cemporta = hundreddoor(or 100door)
+*/
+
 porta = Array(100).fill(false);
 
 function mecherporta (c,porta) {
